@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="URL_DA_SUA_IMAGEM_DE_CAPA" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/C5616AQGARWMsRdL7jg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1593707378562?e=2147483647&v=beta&t=IfGx_ebXvd88RiHqpT9ccl1vnYxWQrkxar0at8gVDLc" width="100%">
 
-# Rickson Jordan Pereira da Silva
+# Rickson Jordan
 
 ### Instrutor de Tecnologia | Desenvolvedor de Sistemas | Dados e Inteligência Artificial
 
 ![Local](https://img.shields.io/badge/Local-Brasília%2FDF-blue)
-![E-mail](https://img.shields.io/badge/Email-seuemail@email.com-red)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Acessar-blue)
+![E-mail](https://img.shields.io/badge/Email-rickson.jordan@outlook.com-red)
+![https://br.linkedin.com/in/rickson-jordan](https://img.shields.io/badge/LinkedIn-Acessar-blue)
 
 </div>
 
@@ -78,7 +78,7 @@ Aplicação mobile criada com React Native e Expo, integrada a uma API e banco d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickson.jordan@outlook.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 
