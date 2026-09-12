@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/C5616AQGARWMsRdL7jg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1593707378562?e=2147483647&v=beta&t=IfGx_ebXvd88RiHqpT9ccl1vnYxWQrkxar0at8gVDLc" width="100%" alt="Banner Rickson Jordan">
+<img
+  src="https://media.licdn.com/dms/image/v2/C5616AQGARWMsRdL7jg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1593707378562?e=2147483647&v=beta&t=IfGx_ebXvd88RiHqpT9ccl1vnYxWQrkxar0at8gVDLc"
+  width="100%"
+  alt="Banner Rickson Jordan"
+/>
 
 # 👋 Olá, eu sou Rickson Jordan
 
@@ -10,16 +14,16 @@
 
 <br>
 
-<a href="https://br.linkedin.com/in/rickson-jordan">
-  <img src="https://img.shields.io/badge/LinkedIn-Rickson%20Jordan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/rickson-jordan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rickson%20Jordan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:rickson.jordan@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <img src="https://img.shields.io/badge/Outlook-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook">
 </a>
 
 <a href="https://github.com/rickjordan20">
-  <img src="https://img.shields.io/badge/GitHub-rickjordan20-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-rickjordan20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -30,11 +34,11 @@
 
 Sou **Instrutor de Tecnologia da Informação** e **Desenvolvedor de Sistemas**, atuando com desenvolvimento de software, banco de dados, qualidade de software e educação profissional.
 
-Gosto de transformar problemas reais em aplicações funcionais, trabalhando desde a ideia e experiência do usuário até **frontend, backend, banco de dados, APIs, autenticação, segurança, testes e publicação**.
+Gosto de transformar problemas reais em aplicações funcionais, trabalhando desde a concepção da solução e experiência do usuário até **frontend, backend, banco de dados, APIs, autenticação, segurança, testes e publicação**.
 
 Na educação, busco aproximar o aprendizado da realidade do mercado por meio de projetos, desafios e situações práticas.
 
-Atualmente, também amplio meus estudos e projetos em **Inteligência Artificial, Análise de Dados, Ciência de Dados e Computação em Nuvem**.
+Também venho ampliando meus estudos e projetos nas áreas de **Inteligência Artificial, Análise de Dados, Ciência de Dados e Computação em Nuvem**.
 
 📍 Brasília — Distrito Federal, Brasil
 
@@ -43,12 +47,20 @@ Atualmente, também amplio meus estudos e projetos em **Inteligência Artificial
 ## 🎯 Atualmente
 
 ```text
-🐶 Vagupi      → Plataforma inteligente de oportunidades profissionais
-✝️ Confiteri   → Plataforma de apoio ao exame de consciência
-🧪 QA Academy  → Ambiente educacional para Qualidade de Software
+🐶 Vagupi
+   Plataforma inteligente de oportunidades profissionais
 
-📚 Estudando   → IA • Dados • Cloud • Arquiteturas modernas
-🎓 Ensinando   → Desenvolvimento de Sistemas • Banco de Dados • QA
+✝️ Confiteri
+   Plataforma de apoio ao exame de consciência
+
+🧪 QA Academy
+   Ambiente educacional para Qualidade de Software
+
+📚 Estudando
+   Inteligência Artificial • Dados • Cloud • Arquiteturas modernas
+
+🎓 Ensinando
+   Desenvolvimento de Sistemas • Banco de Dados • QA
 ```
 
 ---
@@ -59,100 +71,128 @@ Atualmente, também amplio meus estudos e projetos em **Inteligência Artificial
 
 ### Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs" />
+<img
+  src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs"
+  alt="Tecnologias de desenvolvimento"
+/>
+
+<br><br>
 
 ### Banco de Dados & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres,supabase"
+  alt="Banco de dados e backend"
+/>
+
+<br><br>
 
 ### Ferramentas & Deploy
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,vercel"
+  alt="Ferramentas e deploy"
+/>
 
 </div>
 
 ---
 
-# 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-## 🐶 Vagupi
+### 🐶 Vagupi
 
-### Radar inteligente de vagas com matching próprio
+#### Radar inteligente de vagas com matching próprio
 
-Plataforma desenvolvida para tornar a busca por oportunidades profissionais mais organizada, personalizada e inteligente.
+Plataforma desenvolvida para tornar a busca por oportunidades profissionais mais **organizada, personalizada e inteligente**.
 
-O Vagupi combina processamento local, regras próprias de compatibilidade e recursos opcionais de Inteligência Artificial para evitar dependência desnecessária de IA no fluxo principal.
+O Vagupi combina processamento local, regras próprias de compatibilidade e recursos opcionais de Inteligência Artificial, evitando dependência desnecessária de IA no fluxo principal.
 
 **Principais recursos:**
 
-* 🔐 Autenticação e login social
-* 👤 Perfil profissional do candidato
-* 📄 Leitura e processamento de currículo
-* 🔎 Busca de vagas em múltiplas fontes
-* 🎯 Motor próprio de matching candidato × vaga
-* 📊 Organização e acompanhamento de candidaturas
-* 🤖 Análises avançadas opcionais com IA
-* 🛡️ Segurança, controle de acesso e proteção de recursos
-* 💰 Arquitetura voltada à redução do consumo de IA
+- 🔐 Autenticação e login social
+- 👤 Perfil profissional do candidato
+- 📄 Leitura e processamento de currículo
+- 🔎 Busca de vagas em múltiplas fontes
+- 🎯 Motor próprio de matching candidato × vaga
+- 📊 Organização e acompanhamento de candidaturas
+- 🤖 Análises avançadas opcionais com Inteligência Artificial
+- 🛡️ Segurança, autorização e controle de acesso
+- 💰 Controle de consumo e uso de recursos de IA
+- 🌐 Integrações com serviços e APIs externas
 
 **Stack principal**
 
-`Next.js` • `React` • `Node.js` • `Supabase` • `APIs` • `IA`
+`Next.js` • `React` • `Node.js` • `PostgreSQL` • `Supabase` • `APIs` • `IA`
 
-➡️ [Ver projeto no GitHub](https://github.com/rickjordan20/Vagupi)
+<p>
+  <a href="https://github.com/rickjordan20/Vagupi">
+    <img src="https://img.shields.io/badge/GitHub-Ver%20Vagupi-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Vagupi no GitHub">
+  </a>
+</p>
 
 ---
 
-## ✝️ Confiteri
+### ✝️ Confiteri
 
-### Tecnologia a serviço da preparação para o Sacramento da Reconciliação
+#### Tecnologia a serviço da preparação para o Sacramento da Reconciliação
 
-Plataforma web criada para auxiliar no **exame de consciência e preparação pessoal para a Confissão**, com foco em privacidade, simplicidade e conteúdo catequético.
+Plataforma web criada para auxiliar no **exame de consciência e preparação pessoal para a Confissão**, com foco em privacidade, simplicidade, acessibilidade e formação catequética.
 
 **Principais recursos:**
 
-* 📖 Exame de consciência interativo
-* ✝️ Roteiros baseados nos ensinamentos da Igreja
-* 🤔 Revisão específica de dúvidas
-* 📝 Preparação personalizada do roteiro
-* 📱 Modo Confissão
-* 📄 PDF, impressão e exportação
-* 🔒 Dados do exame mantidos na sessão do navegador
-* 🎵 Recursos de meditação
-* 📚 Conteúdo catequético complementar
-* 📱 Interface responsiva e tema claro/escuro
+- 📖 Exame de consciência interativo
+- ✝️ Roteiros baseados nos ensinamentos da Igreja
+- 🤔 Revisão específica de dúvidas
+- 📝 Preparação personalizada do roteiro de Confissão
+- 📱 Modo Confissão
+- 📄 PDF, impressão e exportação
+- 🔒 Dados pessoais do exame mantidos na sessão do navegador
+- 🎵 Recursos opcionais de meditação
+- 📚 Conteúdo catequético complementar
+- 🔗 Relações entre perguntas equivalentes
+- 📊 Métricas agregadas e anônimas
+- 🌓 Tema claro e escuro
+- 📱 Interface responsiva
 
 **Stack principal**
 
 `HTML` • `CSS` • `JavaScript` • `Supabase` • `Vercel`
 
-🌐 [Acessar Confiteri](https://www.confiteri.com.br)
+<p>
+  <a href="https://www.confiteri.com.br">
+    <img src="https://img.shields.io/badge/Acessar-Confiteri-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Confiteri">
+  </a>
 
-💻 [Ver código no GitHub](https://github.com/rickjordan20/confiteri)
+  <a href="https://github.com/rickjordan20/confiteri">
+    <img src="https://img.shields.io/badge/GitHub-Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do Confiteri">
+  </a>
+</p>
 
 ---
 
-## 🧪 QA Academy
+### 🧪 QA Academy
 
-### Aprendizagem prática e gamificada de Qualidade de Software
+#### Aprendizagem prática e gamificada de Qualidade de Software
 
 Ambiente educacional criado para aproximar o ensino de **Qualidade e Testes de Software** das práticas encontradas em projetos reais.
 
-A plataforma permite organizar missões, equipes, avaliações, indicadores de aprendizagem, reavaliações e evolução dos estudantes.
+A plataforma permite organizar missões, equipes, avaliações formativas, indicadores de aprendizagem, reavaliações, recuperação e evolução dos estudantes.
 
-**Trabalha conceitos como:**
+**Principais recursos e conteúdos:**
 
-* 🧪 Planejamento e estratégias de teste
-* 📋 Cenários e casos de teste
-* 🐞 Registro e acompanhamento de bugs
-* ⚙️ Automação de testes
-* 🔁 Regressão e reteste
-* 📊 Métricas e cobertura
-* ♿ Usabilidade e qualidade
-* 🎯 Avaliação por indicadores
-* 🔄 Reavaliação e recuperação
-* 🏆 XP, badges e gamificação
-* 📑 Relatórios de aprendizagem
+- 🧪 Planejamento e estratégias de teste
+- 📋 Cenários e casos de teste
+- 🐞 Registro e acompanhamento de bugs
+- ⚙️ Automação de testes
+- 🔁 Regressão e reteste
+- 📊 Métricas e cobertura
+- ♿ Usabilidade e qualidade
+- 🎯 Avaliação por indicadores
+- 🔄 Reavaliação e recuperação
+- 🏆 XP e gamificação
+- 📑 Relatórios de aprendizagem
+- 👥 Trabalho em equipes e papéis de QA
 
 **Áreas**
 
@@ -164,7 +204,7 @@ A plataforma permite organizar missões, equipes, avaliações, indicadores de a
 
 Como instrutor, utilizo projetos práticos para aproximar o conteúdo técnico da realidade profissional.
 
-Minha abordagem de aprendizagem segue uma progressão baseada em:
+Minha abordagem de aprendizagem busca seguir esta progressão:
 
 <div align="center">
 
@@ -172,45 +212,27 @@ Minha abordagem de aprendizagem segue uma progressão baseada em:
 
 </div>
 
-Os estudantes trabalham com situações que envolvem desenvolvimento, banco de dados, Git/GitHub, documentação, testes, resolução de problemas e trabalho em equipe.
+Os estudantes trabalham com situações que envolvem:
+
+`Desenvolvimento` • `Banco de Dados` • `Git/GitHub` • `Documentação` • `Testes` • `Trabalho em Equipe` • `Resolução de Problemas`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade no GitHub
+
+Minha atividade pode ser acompanhada diretamente pelo próprio GitHub, incluindo contribuições, commits, pull requests e evolução dos projetos.
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=rickjordan20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-alt="Estatísticas GitHub de Rickson Jordan">
+<a href="https://github.com/rickjordan20?tab=overview">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20minha%20atividade-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver atividade no GitHub">
+</a>
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickjordan20&layout=compact&hide_border=true&theme=github_dark"
-alt="Linguagens mais utilizadas">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rickjordan20&theme=github-dark-blue&hide_border=true"
-alt="Sequência de contribuições GitHub">
+<a href="https://github.com/rickjordan20?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios">
+</a>
 
 </div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickjordan20&theme=github-compact&hide_border=true"
-alt="Gráfico de atividade de Rickson Jordan">
-
-</div>
-
-> As estatísticas e o gráfico de atividade são atualizados automaticamente a partir da atividade registrada no GitHub.
 
 ---
 
@@ -218,16 +240,13 @@ alt="Gráfico de atividade de Rickson Jordan">
 
 <div align="center">
 
-`💻 Desenvolvimento de Sistemas`  
-`🌐 Desenvolvimento Web`  
-`🗄️ Banco de Dados`
+**💻 Desenvolvimento de Sistemas**
 
-`🧪 Qualidade de Software`  
-`🤖 Inteligência Artificial`  
-`📊 Dados`
+**🌐 Desenvolvimento Web • 🗄️ Banco de Dados • 🧪 Qualidade de Software**
 
-`☁️ Computação em Nuvem`  
-`🎓 Educação e Tecnologia`
+**🤖 Inteligência Artificial • 📊 Dados • ☁️ Computação em Nuvem**
+
+**🎓 Educação e Tecnologia**
 
 </div>
 
@@ -235,20 +254,20 @@ alt="Gráfico de atividade de Rickson Jordan">
 
 ## 🤝 Vamos nos conectar?
 
-Tenho interesse em **desenvolvimento de software, tecnologia educacional, Inteligência Artificial, dados, QA e inovação**.
+Tenho interesse em projetos relacionados a **desenvolvimento de software, tecnologia educacional, Inteligência Artificial, dados, QA e inovação**.
 
 <div align="center">
 
-<a href="https://br.linkedin.com/in/rickson-jordan">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/rickson-jordan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:rickson.jordan@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-Enviar%20E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <img src="https://img.shields.io/badge/Outlook-Enviar%20E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook">
 </a>
 
 <a href="https://github.com/rickjordan20">
-  <img src="https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
