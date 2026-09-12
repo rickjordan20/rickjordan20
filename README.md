@@ -6,9 +6,9 @@
 
 ### Instrutor de Tecnologia • Desenvolvedor de Sistemas • Dados & Inteligência Artificial
 
-<p>
-  Transformando tecnologia em soluções, projetos e aprendizagem.
-</p>
+**Desenvolvo soluções digitais e transformo projetos reais em experiências de aprendizagem.**
+
+<br>
 
 <a href="https://br.linkedin.com/in/rickson-jordan">
   <img src="https://img.shields.io/badge/LinkedIn-Rickson%20Jordan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,15 +28,28 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Instrutor de Tecnologia da Informação** e **Desenvolvedor de Sistemas**, atuando principalmente com desenvolvimento de software, banco de dados e educação profissional.
+Sou **Instrutor de Tecnologia da Informação** e **Desenvolvedor de Sistemas**, atuando com desenvolvimento de software, banco de dados, qualidade de software e educação profissional.
 
-Como instrutor, trabalho na formação de novos profissionais de tecnologia, aproximando conceitos técnicos de situações e projetos reais de desenvolvimento.
+Gosto de transformar problemas reais em aplicações funcionais, trabalhando desde a ideia e experiência do usuário até **frontend, backend, banco de dados, APIs, autenticação, segurança, testes e publicação**.
 
-Como desenvolvedor, gosto de transformar problemas em aplicações funcionais, explorando desde a definição da solução e experiência do usuário até banco de dados, APIs, segurança, testes e publicação.
+Na educação, busco aproximar o aprendizado da realidade do mercado por meio de projetos, desafios e situações práticas.
 
-Atualmente, também amplio meus conhecimentos e projetos nas áreas de **Inteligência Artificial, Análise de Dados, Ciência de Dados e Computação em Nuvem**.
+Atualmente, também amplio meus estudos e projetos em **Inteligência Artificial, Análise de Dados, Ciência de Dados e Computação em Nuvem**.
 
 📍 Brasília — Distrito Federal, Brasil
+
+---
+
+## 🎯 Atualmente
+
+```text
+🐶 Vagupi      → Plataforma inteligente de oportunidades profissionais
+✝️ Confiteri   → Plataforma de apoio ao exame de consciência
+🧪 QA Academy  → Ambiente educacional para Qualidade de Software
+
+📚 Estudando   → IA • Dados • Cloud • Arquiteturas modernas
+🎓 Ensinando   → Desenvolvimento de Sistemas • Banco de Dados • QA
+```
 
 ---
 
@@ -52,7 +65,7 @@ Atualmente, também amplio meus conhecimentos e projetos nas áreas de **Intelig
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 
-### Ferramentas & DevOps
+### Ferramentas & Deploy
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
@@ -60,52 +73,58 @@ Atualmente, também amplio meus conhecimentos e projetos nas áreas de **Intelig
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos em destaque
 
-### 🐶 Vagupi
+## 🐶 Vagupi
 
-**Plataforma inteligente para busca, organização e análise de oportunidades profissionais.**
+### Radar inteligente de vagas com matching próprio
 
-O Vagupi é um projeto voltado à conexão entre candidatos e oportunidades, reunindo recursos de busca de vagas, perfil profissional, currículo, matching, candidaturas e análises avançadas.
+Plataforma desenvolvida para tornar a busca por oportunidades profissionais mais organizada, personalizada e inteligente.
 
-Entre os recursos desenvolvidos estão:
+O Vagupi combina processamento local, regras próprias de compatibilidade e recursos opcionais de Inteligência Artificial para evitar dependência desnecessária de IA no fluxo principal.
 
-* autenticação e login social;
-* perfil profissional do candidato;
-* leitura e processamento de currículo;
-* busca de vagas em múltiplas fontes;
-* filtros inteligentes;
-* motor próprio de compatibilidade entre candidato e vaga;
-* acompanhamento de candidaturas;
-* recursos opcionais de Inteligência Artificial;
-* arquitetura voltada à segurança e controle de consumo de IA.
+**Principais recursos:**
 
-**Tecnologias:** Next.js • React • Node.js • JavaScript • Supabase • APIs • IA
+* 🔐 Autenticação e login social
+* 👤 Perfil profissional do candidato
+* 📄 Leitura e processamento de currículo
+* 🔎 Busca de vagas em múltiplas fontes
+* 🎯 Motor próprio de matching candidato × vaga
+* 📊 Organização e acompanhamento de candidaturas
+* 🤖 Análises avançadas opcionais com IA
+* 🛡️ Segurança, controle de acesso e proteção de recursos
+* 💰 Arquitetura voltada à redução do consumo de IA
 
-➡️ [Acessar repositório](https://github.com/rickjordan20/Vagupi)
+**Stack principal**
+
+`Next.js` • `React` • `Node.js` • `Supabase` • `APIs` • `IA`
+
+➡️ [Ver projeto no GitHub](https://github.com/rickjordan20/Vagupi)
 
 ---
 
-### ✝️ Confiteri
+## ✝️ Confiteri
 
-**Plataforma de apoio ao exame de consciência e preparação para o Sacramento da Reconciliação.**
+### Tecnologia a serviço da preparação para o Sacramento da Reconciliação
 
-Projeto web desenvolvido com foco em privacidade, acessibilidade e experiência do usuário, oferecendo um roteiro interativo de preparação pessoal.
+Plataforma web criada para auxiliar no **exame de consciência e preparação pessoal para a Confissão**, com foco em privacidade, simplicidade e conteúdo catequético.
 
-O projeto inclui:
+**Principais recursos:**
 
-* exame de consciência interativo;
-* roteiros baseados nos Mandamentos e ensinamentos da Igreja;
-* revisão de dúvidas;
-* preparação do roteiro para confissão;
-* geração de PDF e impressão;
-* modo claro e escuro;
-* proteção de dados da sessão;
-* conteúdo catequético complementar;
-* métricas anônimas;
-* interface responsiva.
+* 📖 Exame de consciência interativo
+* ✝️ Roteiros baseados nos ensinamentos da Igreja
+* 🤔 Revisão específica de dúvidas
+* 📝 Preparação personalizada do roteiro
+* 📱 Modo Confissão
+* 📄 PDF, impressão e exportação
+* 🔒 Dados do exame mantidos na sessão do navegador
+* 🎵 Recursos de meditação
+* 📚 Conteúdo catequético complementar
+* 📱 Interface responsiva e tema claro/escuro
 
-**Tecnologias:** HTML • CSS • JavaScript • Supabase • Vercel
+**Stack principal**
+
+`HTML` • `CSS` • `JavaScript` • `Supabase` • `Vercel`
 
 🌐 [Acessar Confiteri](https://www.confiteri.com.br)
 
@@ -113,73 +132,102 @@ O projeto inclui:
 
 ---
 
-### 🧪 QA Academy
+## 🧪 QA Academy
 
-**Ambiente educacional gamificado para aprendizagem e avaliação de Qualidade de Software.**
+### Aprendizagem prática e gamificada de Qualidade de Software
 
-Projeto desenvolvido para apoiar atividades práticas de testes de software, permitindo organizar missões, avaliações, indicadores de aprendizagem, feedbacks e evolução dos estudantes.
+Ambiente educacional criado para aproximar o ensino de **Qualidade e Testes de Software** das práticas encontradas em projetos reais.
 
-O projeto trabalha conceitos como:
+A plataforma permite organizar missões, equipes, avaliações, indicadores de aprendizagem, reavaliações e evolução dos estudantes.
 
-* planejamento de testes;
-* casos e cenários de teste;
-* registro e acompanhamento de bugs;
-* testes funcionais e de usabilidade;
-* automação;
-* métricas e cobertura;
-* avaliação por indicadores;
-* reavaliação e recuperação;
-* XP e gamificação;
-* relatórios de aprendizagem.
+**Trabalha conceitos como:**
 
-**Áreas:** Desenvolvimento Web • QA • Testes de Software • Educação • Gamificação
+* 🧪 Planejamento e estratégias de teste
+* 📋 Cenários e casos de teste
+* 🐞 Registro e acompanhamento de bugs
+* ⚙️ Automação de testes
+* 🔁 Regressão e reteste
+* 📊 Métricas e cobertura
+* ♿ Usabilidade e qualidade
+* 🎯 Avaliação por indicadores
+* 🔄 Reavaliação e recuperação
+* 🏆 XP, badges e gamificação
+* 📑 Relatórios de aprendizagem
+
+**Áreas**
+
+`QA` • `Testes de Software` • `Desenvolvimento Web` • `Educação` • `Gamificação`
 
 ---
 
 ## 🎓 Tecnologia + Educação
 
-Além do desenvolvimento de software, utilizo projetos práticos como estratégia de aprendizagem.
+Como instrutor, utilizo projetos práticos para aproximar o conteúdo técnico da realidade profissional.
 
-Minha abordagem busca aproximar:
-
-**Teoria → Prática Guiada → Projeto Real → Autonomia**
-
-Os estudantes trabalham com situações próximas às encontradas no mercado, envolvendo desenvolvimento, banco de dados, versionamento, testes, documentação, trabalho em equipe e resolução de problemas.
-
----
-
-## 📚 Áreas de interesse
-
-```text
-💻 Desenvolvimento de Sistemas
-🌐 Desenvolvimento Web
-🗄️ Banco de Dados
-🧪 Qualidade e Testes de Software
-🤖 Inteligência Artificial
-📊 Análise e Ciência de Dados
-☁️ Computação em Nuvem
-🎓 Educação e Tecnologia
-```
-
----
-
-## 📊 GitHub
+Minha abordagem de aprendizagem segue uma progressão baseada em:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rickjordan20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+### 📖 Teoria → 🧑‍💻 Prática Guiada → 🚀 Projeto Real → 🎯 Autonomia
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickjordan20&layout=compact&hide_border=true" />
+</div>
+
+Os estudantes trabalham com situações que envolvem desenvolvimento, banco de dados, Git/GitHub, documentação, testes, resolução de problemas e trabalho em equipe.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=rickjordan20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+alt="Estatísticas GitHub de Rickson Jordan">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickjordan20&layout=compact&hide_border=true&theme=github_dark"
+alt="Linguagens mais utilizadas">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rickjordan20&theme=github-dark-blue&hide_border=true"
+alt="Sequência de contribuições GitHub">
 
 </div>
 
 ---
 
-## 📈 Atividade
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rickjordan20&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickjordan20&theme=github-compact&hide_border=true"
+alt="Gráfico de atividade de Rickson Jordan">
+
+</div>
+
+> As estatísticas e o gráfico de atividade são atualizados automaticamente a partir da atividade registrada no GitHub.
+
+---
+
+## 🧭 Áreas de interesse
+
+<div align="center">
+
+`💻 Desenvolvimento de Sistemas`  
+`🌐 Desenvolvimento Web`  
+`🗄️ Banco de Dados`
+
+`🧪 Qualidade de Software`  
+`🤖 Inteligência Artificial`  
+`📊 Dados`
+
+`☁️ Computação em Nuvem`  
+`🎓 Educação e Tecnologia`
 
 </div>
 
@@ -187,7 +235,7 @@ Os estudantes trabalham com situações próximas às encontradas no mercado, en
 
 ## 🤝 Vamos nos conectar?
 
-Tenho interesse em projetos relacionados a **desenvolvimento de software, tecnologia educacional, Inteligência Artificial, dados e inovação**.
+Tenho interesse em **desenvolvimento de software, tecnologia educacional, Inteligência Artificial, dados, QA e inovação**.
 
 <div align="center">
 
@@ -205,12 +253,12 @@ Tenho interesse em projetos relacionados a **desenvolvimento de software, tecnol
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### 💡 Tecnologia faz mais sentido quando resolve problemas e gera oportunidades.
 
-<sub>Desenvolvimento • Educação • Dados • Inteligência Artificial</sub>
+**Desenvolvimento • Educação • Dados • Inteligência Artificial**
 
 </div>
