@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/C5616AQGARWMsRdL7jg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1593707378562?e=2147483647&v=beta&t=IfGx_ebXvd88RiHqpT9ccl1vnYxWQrkxar0at8gVDLc" width="100%" alt="Banner Rickson Jordan"/>
+<img src="https://github.com/rickjordan20/rickjordan20/blob/main/Capa%20Oficial%20Linkedln%20-%20Rickson%20Jordan.png" width="100%" alt="Banner Rickson Jordan"/>
 
 # 👋 Olá, eu sou Rickson Jordan
 
